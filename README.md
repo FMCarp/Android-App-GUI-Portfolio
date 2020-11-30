@@ -1,7 +1,8 @@
 # Android App GUI **Portfolio**
 
 Some of my Android projects. <br />
-They were designed to run on generic smartphones or on a specific tablet embedded into a custom enclosure.
+They were designed to run on generic smartphones or on a specific tablet embedded into a custom enclosure attached to different peripherals (like a UHF RFID reader). <br />
+Some applications run offline, some run online (connected to back-end servers using REST webservices).
 
 #
 #
