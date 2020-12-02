@@ -8,6 +8,6 @@ Some applications run offline, some run online (connected to back-end servers us
 #
 
 **Retail space RFID-based online price checker** <br />
-![EW DITC 2](https://user-images.githubusercontent.com/29917546/100913174-17199700-34da-11eb-93d9-726360d0cc4d.png) <br /> <br /> <br /> <br /> <br />
+![EW DITC 2](https://user-images.githubusercontent.com/29917546/100913543-97d89300-34da-11eb-851c-715d1a5e63a4.png) <br /> <br /> <br /> <br /> <br />
 
 
